@@ -7,4 +7,4 @@ Our Face Detection algorithm is implemented using the information of the moving 
 
  In order to overcome the statistical based methods problems and to achieve biometric recognition, we depend on building a facial mesh between the eyes, nose, mouth, eyebrows,and extracting the shape of each. Then this mesh will be used later in the recognition process. Face area is passed through a number of preprocessing steps such as noise reduction, scale process and unifying the illumination of the face to obtain better results during the eye, nose, mouth and eyebrow search process.
  for more information please visit : 
-http://imljh.herokuapp.com//projects/RealLifeIntelligentAssistantforBlindPeople/index.xml
+https://imljh.herokuapp.com/projects/RealTimeBionetricFaceRecognitionSystem/index.xml
