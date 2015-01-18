@@ -1,0 +1,148 @@
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Welcome_Window.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 9\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Welcome_Window.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 10\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Welcome_Window.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\Real Time Biometric Face Recognition System 11\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Welcome_Window.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 11\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 12\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 13\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+E:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14 - Test\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 14\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 16\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 17\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 18\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 19 - test\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 21\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 22\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 23\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.exe
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\bin\Debug\RTBFRS.pdb
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.MainFrm.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\Real_Time_Biometric_Face_Recognition_System.Properties.Resources.resources
+D:\IMLJH\IMLJH Information Bank\My Researches\Face Recognition\Project Code\RTBFRS 24\Real Time Biometric Face Recognition System\obj\Debug\Real Time Biometric Face Recognition System.csproj.GenerateResource.Cache
